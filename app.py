@@ -1,1 +1,1 @@
-print("Hello world")
+print("Simple GraphQL with Python")
